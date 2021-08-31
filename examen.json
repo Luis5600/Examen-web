@@ -1,0 +1,83 @@
+{
+    "DatosEstudiantes":[
+
+{
+    "Cedula":"131672839",
+    "Apellido":"Mendoza Parraga",
+    "Nombre":"Andres Juan",
+    "Direccion":"Manta",
+    "Telefono":"0993535101"
+    
+},
+{
+    "Cedula":"1316342139",
+    "Apellido":"Toala Ordoñes",
+    "Nombre":"Leonardo Alexander",
+    "Direccion":"Manta",
+    "Telefono":"0995431233"
+ 
+
+},
+{
+    "Cedula":"1317832139",
+    "Apellido":"Giler Macias",
+    "Nombre":"Antonio Andres",
+    "Direccion":"Manta",
+    "Telefono":"7654312891"
+   
+},
+{
+    "Cedula":"1387514839",
+    "Apellido":"Luis Alfredo",
+    "Nombre":"Delgado Bravo",
+    "Direccion":"Manta",
+    "Telefono":"0987456901"
+
+},
+{
+    "Cedula":"1316938629",
+    "Apellido":"Moya Vera",
+    "Nombre":"Carlos Alberto",
+    "Direccion":"Manta",
+    "Telefono":"0981451234"
+},
+{
+    "Cedula":"1309127839",
+    "Apellido":"Saltos Carrillo",
+    "Nombre":"Pablo Fabian",
+    "Direccion":"Manta",
+    "Telefono":"8765431201"
+},
+{
+    "Cedula":"1310029139",
+    "Apellido":"Parraga facundo",
+    "Nombre":"Andres Darvi",
+    "Direccion":"Manta",
+    "Telefono":"1230984562"
+},
+{
+    "Cedula":"131672839",
+    "Apellido":"Zambrano Vera",
+    "Nombre":"Dante Pato",
+    "Direccion":"Manta",
+    "Telefono":"9887659866"
+},
+{
+    "Cedula":"1318723839",
+    "Apellido":"Macias Moreira",
+    "Nombre":"Josefa Yanina",
+    "Direccion":"Manta",
+    "Telefono":"1234567890"
+},
+
+ {
+    "Cedula":"1303982234",
+    "Apellido":"Mendoza Moreira",
+    "Nombre":"Ana Gabriela",
+    "Direccion":"Manta",
+    "Telefono":"0987654321"
+  }
+
+]
+
+}
